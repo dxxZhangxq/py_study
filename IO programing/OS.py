@@ -17,3 +17,4 @@ def search_file(dir_path, name):
         elif os.path.isfile(fp) and name in p:
             print('匹配到文件 %s' % fp)
 search_file('/home/zhangxq/Documents/Python/', name='OO')
+fuck
